@@ -12,3 +12,5 @@ huggingface代理设置（如果模型下载缓慢）
 ```
 export HF_ENDPOINT=https://hf-mirror.com
 ```
+
+运行 `python run.py` 来启动程序

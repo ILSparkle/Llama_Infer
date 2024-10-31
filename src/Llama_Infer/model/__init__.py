@@ -1,4 +1,4 @@
-from model import OptimizedModel
+from .model import OptimizedModel
 
 
 __all__=["OptimizedModel"]
